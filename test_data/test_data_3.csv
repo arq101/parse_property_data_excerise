@@ -1,0 +1,11 @@
+PROPERTY_REFERENCE,PRICE,BEDROOMS,BATHROOMS,HOUSE_NUMBER,ADDRESS,REGION,POSTCODE,PROPERTY_TYPE
+1,1000000,7,2,12,Richard Lane,London,W1F 3FT,Mansion
+2,100000,2,1,22,Brick Road,Sheffield,SH1 1AW,Terraced
+3,225000,5,,40,Yellow Lane,Manchester,MA12 3ZY,Detached
+4,150000,1,1,3B,Red Admiral Court,Essex,RM2 6ET,Flat
+5,222250,3,1,36,Bear Road,Winchester,WI3 9TT,Detached
+6,750000,10,4,,Country House,Surrey,GU13 9DD,Mansion
+7,125000,2,2,44,New Road,London,W1F 4DQ,Mansion
+8,545444,4,1,55,Straight Road,Sheffield,SH1 8FG,Terraced
+9,574833,4,3,23,Curved Lane,Manchester,MA12 3AS,Detached
+10,999999,5,1,101,Catherine House,Essex,RM2 0TY,Flat

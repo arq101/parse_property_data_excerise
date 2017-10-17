@@ -1,0 +1,7 @@
+PROPERTY_REFERENCE,PRICE,BEDROOMS,BATHROOMS,HOUSE_NUMBER,ADDRESS,REGION,POSTCODE,PROPERTY_TYPE
+3,225000,5,,40,Yellow Lane,Manchester,MA12 3ZY,Detached
+4,150000,1,1,3B,Red Admiral Court,Essex,RM2 6ET,Flat
+5,222250,3,1,36,Bear Road,Winchester,WI3 9TT,Detached
+15,275000,3,1,78,The Approach ,Manchester,MA12 9DF,Detached
+16,150000,1,1,Flat 12b,Windsor Court,Essex,RM2 7YA,Flat
+22,156000,3,1,9a,Red Admiral Court,Essex,RM2 6ET,Flat
